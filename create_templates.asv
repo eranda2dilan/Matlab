@@ -1,0 +1,18 @@
+clc
+
+A = imread('letters_numbers\a.bmp'); N = imread('letters_numbers\n.bmp');
+B = imread('letters_numbers\b.bmp'); ON = imread('letters_numbers\n.bmp');
+C = imread('letters_numbers\c.bmp'); P
+D = imread('letters_numbers\d.bmp'); Q
+E = imread('letters_numbers\e.bmp'); R
+F = imread('letters_numbers\f.bmp'); S
+G = imread('letters_numbers\g.bmp'); T
+H = imread('letters_numbers\h.bmp'); U
+I = imread('letters_numbers\i.bmp'); V
+J = imread('letters_numbers\j.bmp'); W
+K = imread('letters_numbers\k.bmp'); X
+L = imread('letters_numbers\l.bmp'); Y
+M = imread('letters_numbers\m.bmp'); Z
+
+
+% imshow(A);
